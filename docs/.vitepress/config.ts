@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     title: 'X7 Blog',
     description: '技术博客',
-    base: '/blog/',
+    base: '/',
     themeConfig: {
         nav: [
             { text: '首页', link: '/' },
