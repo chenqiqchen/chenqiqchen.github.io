@@ -6,6 +6,25 @@ export default defineConfig({
     description: '技术博客',
     base: '/',
     themeConfig: {
+        search: {
+            provider: 'local',
+            options: {
+                translations: {
+                    button: {
+                        buttonText: '搜索文档',
+                        buttonAriaLabel: '搜索文档',
+                    },
+                    modal: {
+                        noResultsText: '无法找到相关结果',
+                        resetButtonTitle: '清除查询条件',
+                        footer: {
+                            selectText: '选择',
+                            navigateText: '切换',
+                        },
+                    },
+                },
+            },
+        },
         nav: [
             { text: '首页', link: '/' },
             { text: '前端', link: '/frontend/' },
@@ -52,6 +71,9 @@ export default defineConfig({
             //         items: [{ text: 'Java', link: '/backend/java/' }],
             //     },
             // ],
+        },
+        footer: {
+            copyright: 'Copyright © 2026 X7 Blog',
         },
     },
 })

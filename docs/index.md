@@ -1,19 +1,24 @@
-# X7的技术博客
+---
+layout: home
 
-记录前端开发中的实践、思考与踩坑总结。
+hero:
+  name: "X7 Blog"
+  text: "记录前端学习与实践"
+  tagline: "把经验沉淀为可复用的方法"
+  actions:
+    - theme: brand
+      text: 开始阅读
+      link: /frontend/
+    - theme: alt
+      text: 返回首页
+      link: /
 
-## 开始阅读
 
-- [前端文章导航](/frontend/)
-
-## 前端分类
-
-- [JavaScript](/frontend/javascript/)
-- [React](/frontend/react/)
-- [Vue](/frontend/vue/)
-- [工程化](/frontend/engineering/)
-
-## 最近更新
-
-- [npm 依赖版本号中 ^ 和 ~ 到底有什么区别？](/frontend/engineering/npm-caret-vs-tilde)
-- [如何切换元素显示与隐藏](/frontend/javascript/how-to-toggle-element-display)
+features:
+  - title: 系统化输出
+    details: 将零散知识整理成结构化文章，方便回顾与检索。
+  - title: 实战优先
+    details: 聚焦真实开发场景，记录踩坑、排查思路与落地方案。
+  - title: 持续迭代
+    details: 内容会随着实践不断更新，保证结论保持可用与可靠。
+---
