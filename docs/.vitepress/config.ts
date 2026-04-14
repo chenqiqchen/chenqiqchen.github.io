@@ -51,7 +51,7 @@ export default defineConfig({
                 {
                     text: 'Vue',
                     items: [
-                        { text: 'Vue', link: '/frontend/vue/' },
+                        { text: '如何打开弹窗', link: '/frontend/vue/how-to-open-dialog' },
                     ],
                 },
                 {
