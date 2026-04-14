@@ -45,7 +45,7 @@ export default defineConfig({
                 {
                     text: 'React',
                     items: [
-                        { text: 'React', link: '/frontend/react/' },
+                        { text: 'React 常用知识点速查', link: '/frontend/react/react-base' },
                     ],
                 },
                 {
