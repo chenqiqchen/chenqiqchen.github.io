@@ -58,6 +58,7 @@ export default defineConfig({
                     text: '工程化',
                     items: [
                         { text: '版本号中 ^ 和 ~ 的区别', link: '/frontend/engineering/npm-caret-vs-tilde' },
+                        { text: '如何配置 @ 别名', link: '/frontend/engineering/how-to-configure-at-alias' },
                     ],
                 },
                 {
