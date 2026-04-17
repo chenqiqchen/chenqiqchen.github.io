@@ -1,5 +1,6 @@
 ---
 theme: channing-cyan
+date: 2026-04-14
 ---
 # 【git】代码双仓库备份指南
 

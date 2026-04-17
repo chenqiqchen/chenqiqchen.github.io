@@ -1,5 +1,6 @@
 ---
 theme: channing-cyan
+date: 2026-04-14
 ---
 
 # Vue 3：打开弹窗组件的 3 种常用方式

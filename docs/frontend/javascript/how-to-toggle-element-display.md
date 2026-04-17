@@ -1,5 +1,6 @@
 ---
 theme: channing-cyan
+date: 2026-04-10
 ---
 
 # 如何切换元素显示与隐藏
