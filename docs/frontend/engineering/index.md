@@ -6,3 +6,4 @@
 - [前端项目如何优雅配置 @ 别名（Webpack / Vite + TypeScript）](/frontend/engineering/how-to-configure-at-alias)
 - [ESLint 配置入门指南](/frontend/engineering/eslint-config-getting-started)
 - [Prettier 实战指南](/frontend/engineering/prettier-practical-guide)
+- [Prettier + ESLint + lint-staged + husky 实战指南](/frontend/engineering/prettier-eslint-lint-staged-husky-guide)
