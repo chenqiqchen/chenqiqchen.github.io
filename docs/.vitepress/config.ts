@@ -64,6 +64,7 @@ export default defineConfig({
                         { text: 'ESLint 配置入门指南', link: '/frontend/engineering/eslint-config-getting-started' },
                         { text: 'Prettier 实战指南', link: '/frontend/engineering/prettier-practical-guide' },
                         { text: 'lint-staged + husky 实战指南', link: '/frontend/engineering/prettier-eslint-lint-staged-husky-guide' },
+                        { text: '本地 Vite 和测试 Nginx，请求到底怎么走', link: '/frontend/engineering/process-of-api-request' },
                     ],
                 },
                 {

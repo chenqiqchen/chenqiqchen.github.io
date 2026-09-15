@@ -7,3 +7,4 @@
 - [ESLint 配置入门指南](/frontend/engineering/eslint-config-getting-started)
 - [Prettier 实战指南](/frontend/engineering/prettier-practical-guide)
 - [Prettier + ESLint + lint-staged + husky 实战指南](/frontend/engineering/prettier-eslint-lint-staged-husky-guide)
+- [本地 Vite 和测试 Nginx，请求到底怎么走](/frontend/engineering/process-of-api-request)
