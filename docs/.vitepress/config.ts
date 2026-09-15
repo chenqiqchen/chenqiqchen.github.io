@@ -74,6 +74,13 @@ export default defineConfig({
                         { text: '【Nginx】前端项目部署与反向代理实战指南', link: '/frontend/development-tools/nginx-practical-guide-for-frontend' },
                     ],
                 },
+                   {
+                    text: '经验总结',
+                    items: [
+                        { text: '【代码优化】记一次邮件复制功能的代码优化', link: '/frontend/experience/code-optimization-for-email-copying' },
+                    ],
+                },
+                
             ],
             // '/backend/': [
             //     {
