@@ -28,7 +28,7 @@ export default defineConfig({
         nav: [
             { text: '首页', link: '/' },
             { text: '前端', link: '/frontend/' },
-            // { text: '后端', link: '/backend/' },
+            { text: 'Java', link: '/backend/' },
         ],
         sidebar: {
             '/frontend/': [
@@ -83,16 +83,18 @@ export default defineConfig({
                 },
                 
             ],
-            // '/backend/': [
-            //     {
-            //         text: '后端总览',
-            //         items: [{ text: '后端文章导航', link: '/backend/' }],
-            //     },
-            //     {
-            //         text: '后端分类',
-            //         items: [{ text: 'Java', link: '/backend/java/' }],
-            //     },
-            // ],
+            '/backend/': [
+                {
+                    text: '后端总览',
+                    items: [{ text: '后端文章导航', link: '/backend/' }],
+                },
+                {
+                    text: 'Java',
+                    items: [
+                        { text: 'Spring Boot 常见注解', link: '/backend/java/springboot-common-annotations' },
+                    ],
+                },
+            ],
         },
         footer: {
             copyright: 'Copyright © 2026 X7 Blog',
