@@ -92,6 +92,7 @@ export default defineConfig({
                     text: 'Java',
                     items: [
                         { text: 'Spring Boot 常见注解', link: '/backend/java/springboot-common-annotations' },
+                        { text: 'Session、ThreadLocal 和应用级变量', link: '/backend/java/session-threadlocal-app-scope' },
                     ],
                 },
             ],
